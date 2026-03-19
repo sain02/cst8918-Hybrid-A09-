@@ -1,0 +1,25 @@
+{
+  "name": "cst8918-hybrid-a09-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sain02/cst8918-Hybrid-A09-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sain02/cst8918-Hybrid-A09-/issues"
+  },
+  "homepage": "https://github.com/sain02/cst8918-Hybrid-A09-#readme",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}
